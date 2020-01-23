@@ -11,3 +11,5 @@ Examples:
 `./shodanscan.py -a api.txt -f ips.txt -o out.txt`
 
 `./shodanscan.py -a api.txt -q 'apache country:US'`
+
+`./shodanscan.py -a api.txt -f ips.txt -d`
